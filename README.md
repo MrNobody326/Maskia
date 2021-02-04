@@ -1,2 +1,2 @@
-# Maskia
-A painting program for linux
+# Getting Started
+
